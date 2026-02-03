@@ -1,0 +1,9 @@
+Create a complete Java project suitable for GitHub.
+Requirements:
+- Clean folder structure
+- Well-commented Java code
+- Use OOP concepts
+- Include input validation
+- Add sample output
+- Provide a professional README.md
+Project topic: [mention your topic here]
